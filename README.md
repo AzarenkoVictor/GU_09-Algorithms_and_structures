@@ -1,2 +1,4 @@
-# GU_09-Algorithms_and_structures
 Java
+
+HomeWork 2
+Реализовать алгоритм пирамидальной сортировки (сортировка кучей).
